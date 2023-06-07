@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/14940
-# 23.06.07
+# 23.06.06
 
 import sys
 def solution(input) :
